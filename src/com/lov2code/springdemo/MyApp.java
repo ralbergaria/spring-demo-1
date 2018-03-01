@@ -1,10 +1,14 @@
-package com.lov2code.springdemo;
+package com.luv2code.springdemo;
 
 public class MyApp {
+
 	public static void main(String[] args) {
-		//Coach theCoach = new TrackCoach();
+
+		// create the object
+		Coach theCoach = new TrackCoach();
 		
-		//System.out.println(theCoach.getDailyWorkout());
-	
+		// use the object
+		System.out.println(theCoach.getDailyWorkout());		
 	}
+
 }
