@@ -1,4 +1,4 @@
-package com.luv2code.springdemo;
+package com.lov2code.springdemo;
 
 public class MyApp {
 
